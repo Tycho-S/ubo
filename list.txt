@@ -1,0 +1,33 @@
+! 2022-05-10 https://www.lavanguardia.com
+www.lavanguardia.com##.article-module-sponsor
+
+! 2022-05-17 https://www.lavanguardia.com
+www.lavanguardia.com##.article-module-sponsored
+
+#tweakers.net^$document
+#tweakers.net^$elemhide
+aa.tweakers.nl^
+ab.tweakers.nl^
+usabilla.com
+
+! 2022-07-15 https://tweakers.net
+tweakers.net##.popupContent
+||tweakers.net/g/whitelist_message/boen.jpg$image
+tweakers.net##.noTrackingMessage
+||tweakers.net/g/banner/twk-inhouse-banner-bg.svg$image
+tweakers.net##.originalReplacementBannerStyle.reserveSpace.async.widebnr
+tweakers.net##.nonspot.headline
+
+! 2022-08-10 https://tweakers.net
+tweakers.net##.category-bar
+tweakers.net##.promoted-product
+
+! 2022-11-16 https://tweakers.net
+||tweakers.net/i/*=/1280x400/filters:max_bytes(102400):strip_icc()/i/*$image
+
+! 2022-12-04 https://tweakers.net
+tweakers.net##.shield.plus.ctaButton
+
+! 2023-01-15 https://tweakers.net
+tweakers.net##.reserveSpace.loading.async.widebnr
+
