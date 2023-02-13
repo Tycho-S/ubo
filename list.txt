@@ -31,5 +31,4 @@ tweakers.net##.shield.plus.ctaButton
 ! 2023-01-15 https://tweakers.net
 tweakers.net##.reserveSpace.loading.async.widebnr
 
-instagram.com/reel
 
