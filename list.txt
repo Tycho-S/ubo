@@ -30,5 +30,11 @@ tweakers.net##.shield.plus.ctaButton
 
 ! 2023-01-15 https://tweakers.net
 tweakers.net##.reserveSpace.loading.async.widebnr
-
-
+! 2023-02-20 https://tweakers.net
+tweakers.net##.ankeiler-stream
+tweakers.net##.bbg
+tweakers.net##.sponsored-actions
+tweakers.net##.community-content
+tweakers.net##.fp-title.community-title
+tweakers.net##.sidebar-1
+tweakers.net##.community
