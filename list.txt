@@ -52,4 +52,4 @@ tweakers.net##.shield.plus.ctaButton
 
 ! 2023-02-21 https://tweakers.net
 tweakers.net##.promotor
-tweakers.net##.popup
+!tweakers.net##.popup
