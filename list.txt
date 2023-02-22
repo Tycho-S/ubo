@@ -38,3 +38,18 @@ tweakers.net##.community-content
 tweakers.net##.fp-title.community-title
 tweakers.net##.sidebar-1
 tweakers.net##.community
+
+tweakers.net##.category-bar
+tweakers.net##.sidebar-1
+tweakers.net##.sidebar-2
+tweakers.net##.ankeiler-stream
+
+! 2022-12-04 https://tweakers.net
+||tweakers.net/g/banner/twk-inhouse-banner-bg.svg$image
+||tweakers.net/g/banner/twk-inhouse-banner-bg.svg$image
+tweakers.net##.originalReplacementBannerStyle.reserveSpace.async.widebnr
+tweakers.net##.shield.plus.ctaButton
+
+! 2023-02-21 https://tweakers.net
+tweakers.net##.promotor
+tweakers.net##.popup
