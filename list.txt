@@ -23,7 +23,7 @@ tweakers.net##.category-bar
 tweakers.net##.promoted-product
 
 ! 2022-11-16 https://tweakers.net
-||tweakers.net/i/*=/1280x400/filters:max_bytes(102400):strip_icc()/i/*$image
+!||tweakers.net/i/*=/1280x400/filters:max_bytes(102400):strip_icc()/i/*$image
 
 ! 2022-12-04 https://tweakers.net
 tweakers.net##.shield.plus.ctaButton
