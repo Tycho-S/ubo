@@ -66,4 +66,11 @@ tweakers.net##.category-bar
 tweakers.net##[href="https://tweakersgear.net"]
 tweakers.net###ticker
 
+! 2023-07-24 https://tweakers.net
+tweakers.net##.WuDEJeECMjKsgIjn
 
+! 2023-07-26 https://tweakers.net
+tweakers.net##.fSTLjlGzTjFeUvzw
+
+! 2023-07-27 https://tweakers.net
+tweakers.net##.popupContent > p
