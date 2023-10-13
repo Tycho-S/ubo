@@ -57,3 +57,13 @@ tweakers.net##.promotor
 ! 2023-03-15 https://tweakers.net
 tweakers.net###CustomType1
 tweakers.net##.atLabel > span
+
+tweakers.net##.sidebar-1
+tweakers.net##.ankeiler-stream
+tweakers.net##.community-block
+tweakers.net##.review.ankeiler-large.ankeiler-1
+tweakers.net##.category-bar
+tweakers.net##[href="https://tweakersgear.net"]
+tweakers.net###ticker
+
+
