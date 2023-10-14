@@ -78,3 +78,6 @@ tweakers.net##.popupContent > p
 
 tweakers.net###true > .icon > svg > use
 tweakers.net##.social
+
+! 2023-10-14 https://tweakers.net
+tweakers.net##.colofon
