@@ -75,3 +75,6 @@ tweakers.net##.fSTLjlGzTjFeUvzw
 
 ! 2023-07-27 https://tweakers.net
 tweakers.net##.popupContent > p
+
+tweakers.net###true > .icon > svg > use
+tweakers.net##.social
