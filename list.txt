@@ -66,6 +66,8 @@ tweakers.net##.review.ankeiler-large.ankeiler-1
 tweakers.net##.category-bar
 tweakers.net##[href="https://tweakersgear.net"]
 tweakers.net###ticker
+tweakers.net##.geek.ankeiler-large.ankeiler-1
+tweakers.net##.ankeiler-large
 
 ! 2023-07-24 https://tweakers.net
 tweakers.net##.WuDEJeECMjKsgIjn
