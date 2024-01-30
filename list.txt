@@ -84,3 +84,8 @@ tweakers.net##.social
 
 ! 2023-10-14 https://tweakers.net
 tweakers.net##.colofon
+
+! Tweakers new sidebar
+tweakers.net##.sidebar-buttons
+tweakers.net##twk-sidebar
+tweakers.net###menubar > .sidebar-trigger
