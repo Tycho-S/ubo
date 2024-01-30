@@ -88,4 +88,5 @@ tweakers.net##.colofon
 ! Tweakers new sidebar
 tweakers.net##.sidebar-buttons
 tweakers.net##twk-sidebar
+tweakers.net##twk-sidebar-pane
 tweakers.net###menubar > .sidebar-trigger
