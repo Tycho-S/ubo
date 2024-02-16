@@ -90,3 +90,5 @@ tweakers.net##.sidebar-buttons
 tweakers.net##twk-sidebar
 tweakers.net##twk-sidebar-pane
 tweakers.net###menubar > .sidebar-trigger
+! Stupid True icon
+###not-false > .icon
