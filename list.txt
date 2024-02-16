@@ -86,4 +86,5 @@ tweakers.net##twk-sidebar
 tweakers.net##twk-sidebar-pane
 tweakers.net###menubar > .sidebar-trigger
 ! Stupid True icon
-tweakers.net###not-false > .icon
+tweakers.net###koekieBar
+! after above removed -> #.koekie_bar_inactive.koekie_bar
