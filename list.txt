@@ -70,14 +70,9 @@ tweakers.net##.geek.ankeiler-large.ankeiler-1
 tweakers.net##.ankeiler-large
 tweakers.net##twk-ankeiler
 
-! 2023-07-24 https://tweakers.net
-tweakers.net##.WuDEJeECMjKsgIjn
-
-! 2023-07-26 https://tweakers.net
-tweakers.net##.fSTLjlGzTjFeUvzw
-
+! Should not be necessary anymore
 ! 2023-07-27 https://tweakers.net
-tweakers.net##.popupContent > p
+! tweakers.net##.popupContent > p
 
 tweakers.net###true > .icon > svg > use
 tweakers.net##.social
