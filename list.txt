@@ -91,4 +91,4 @@ tweakers.net##twk-sidebar
 tweakers.net##twk-sidebar-pane
 tweakers.net###menubar > .sidebar-trigger
 ! Stupid True icon
-###not-false > .icon
+tweakers.net###not-false > .icon
