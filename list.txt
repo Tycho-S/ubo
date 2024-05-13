@@ -11,7 +11,7 @@ ab.tweakers.nl^
 usabilla.com
 
 ! 2022-07-15 https://tweakers.net
-tweakers.net##.popupContent
+!tweakers.net##.popupContent
 ||tweakers.net/g/whitelist_message/boen.jpg$image
 tweakers.net##.noTrackingMessage
 ||tweakers.net/g/banner/twk-inhouse-banner-bg.svg$image
