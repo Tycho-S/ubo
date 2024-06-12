@@ -90,3 +90,4 @@ tweakers.net###not-false > .icon
 ! Koekiebar bullshit
 tweakers.net###koekieBar
 ! after above removed -> #.koekie_bar_inactive.koekie_bar
+tweakers.net##.submit-info
