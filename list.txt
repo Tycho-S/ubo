@@ -93,3 +93,8 @@ tweakers.net###koekieBar
 tweakers.net##.submit-info! Jul 2, 2024 https://tweakers.net
 tweakers.net##.relatedContentContainer
 
+tweakers.net##.active > [href="https://tweakers.net/pricewatch/deals/"]
+tweakers.net##li.more:nth-of-type(4)
+tweakers.net##[href="https://tweakers.net/pricewatch/deals/"]
+
+
