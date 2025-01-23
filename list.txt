@@ -11,9 +11,8 @@ ab.tweakers.nl^
 usabilla.com
 
 ! 2022-07-15 https://tweakers.net
-!tweakers.net##.popupContent
+#!tweakers.net##.popupContent
 ||tweakers.net/g/whitelist_message/boen.jpg$image
-tweakers.net##.noTrackingMessage
 ||tweakers.net/g/banner/twk-inhouse-banner-bg.svg$image
 tweakers.net##.originalReplacementBannerStyle.reserveSpace.async.widebnr
 tweakers.net##.nonspot.headline
@@ -53,7 +52,7 @@ tweakers.net##.shield.plus.ctaButton
 
 ! 2023-02-21 https://tweakers.net
 tweakers.net##.promotor
-!tweakers.net##.popup
+#!tweakers.net##.popup
 
 ! 2023-03-15 https://tweakers.net
 tweakers.net###CustomType1
@@ -72,7 +71,7 @@ tweakers.net##twk-ankeiler
 
 ! Should not be necessary anymore
 ! 2023-07-27 https://tweakers.net
-! tweakers.net##.popupContent > p
+#! tweakers.net##.popupContent > p
 
 tweakers.net###true > .icon > svg > use
 tweakers.net##.social
@@ -94,9 +93,9 @@ tweakers.net##.submit-info! Jul 2, 2024 https://tweakers.net
 tweakers.net##.relatedContentContainer
 
 tweakers.net##.active > [href="https://tweakers.net/pricewatch/deals/"]
-tweakers.net##li.more:nth-of-type(4)
+#tweakers.net##li.more:nth-of-type(4)
 tweakers.net##[href="https://tweakers.net/pricewatch/deals/"]
 
 ! Aug 17, 2024 https://gathering.tweakers.net
-gathering.tweakers.net##li.more:nth-of-type(4)
+#gathering.tweakers.net##li.more:nth-of-type(4)
 tweakers.net##.sidebar
