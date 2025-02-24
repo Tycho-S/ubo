@@ -99,3 +99,5 @@ tweakers.net##[href="https://tweakers.net/pricewatch/deals/"]
 ! Aug 17, 2024 https://gathering.tweakers.net
 #gathering.tweakers.net##li.more:nth-of-type(4)
 tweakers.net##.sidebar
+! New style ads
+||tweakers.net/i/$image
