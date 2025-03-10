@@ -1,0 +1,105 @@
+! 2022-05-10 https://www.lavanguardia.com
+www.lavanguardia.com##.article-module-sponsor
+
+! 2022-05-17 https://www.lavanguardia.com
+www.lavanguardia.com##.article-module-sponsored
+
+#tweakers.net^$document
+#tweakers.net^$elemhide
+aa.tweakers.nl^
+ab.tweakers.nl^
+usabilla.com
+
+! 2022-07-15 https://tweakers.net
+#!tweakers.net##.popupContent
+||tweakers.net/g/whitelist_message/boen.jpg$image
+||tweakers.net/g/banner/twk-inhouse-banner-bg.svg$image
+tweakers.net##.originalReplacementBannerStyle.reserveSpace.async.widebnr
+tweakers.net##.nonspot.headline
+
+! 2022-08-10 https://tweakers.net
+tweakers.net##.category-bar
+tweakers.net##.promoted-product
+
+! 2022-11-16 https://tweakers.net
+! --- DELETE ||tweakers.net/i/*=/1280x400/filters:max_bytes(102400):strip_icc()/i/*$image
+
+! 2022-12-04 https://tweakers.net
+tweakers.net##.shield.plus.ctaButton
+
+! 2023-01-15 https://tweakers.net
+tweakers.net##.reserveSpace.loading.async.widebnr
+! 2023-02-20 https://tweakers.net
+tweakers.net##.ankeiler-stream
+tweakers.net##.bbg
+tweakers.net##.sponsored-actions
+tweakers.net##.community-content
+tweakers.net##.fp-title.community-title
+tweakers.net##.sidebar-1
+! --- DELETE tweakers.net##.community
+
+
+tweakers.net##.category-bar
+tweakers.net##.sidebar-1
+tweakers.net##.sidebar-2
+tweakers.net##.ankeiler-stream
+
+! 2022-12-04 https://tweakers.net
+||tweakers.net/g/banner/twk-inhouse-banner-bg.svg$image
+||tweakers.net/g/banner/twk-inhouse-banner-bg.svg$image
+tweakers.net##.originalReplacementBannerStyle.reserveSpace.async.widebnr
+tweakers.net##.shield.plus.ctaButton
+
+! 2023-02-21 https://tweakers.net
+tweakers.net##.promotor
+#!tweakers.net##.popup
+
+! 2023-03-15 https://tweakers.net
+tweakers.net###CustomType1
+tweakers.net##.atLabel > span
+
+tweakers.net##.sidebar-1
+tweakers.net##.ankeiler-stream
+tweakers.net##.community-block
+tweakers.net##.review.ankeiler-large.ankeiler-1
+tweakers.net##.category-bar
+tweakers.net##[href="https://tweakersgear.net"]
+tweakers.net###ticker
+tweakers.net##.geek.ankeiler-large.ankeiler-1
+tweakers.net##.ankeiler-large
+tweakers.net##twk-ankeiler
+
+! Should not be necessary anymore
+! 2023-07-27 https://tweakers.net
+#! tweakers.net##.popupContent > p
+
+tweakers.net###true > .icon > svg > use
+tweakers.net##.social
+
+! 2023-10-14 https://tweakers.net
+tweakers.net##.colofon
+
+! Tweakers new sidebar
+tweakers.net##.sidebar-buttons
+tweakers.net##twk-sidebar
+tweakers.net##twk-sidebar-pane
+tweakers.net###menubar > .sidebar-trigger
+! Stupid True icon
+tweakers.net###not-false > .icon
+! Koekiebar bullshit
+tweakers.net###koekieBar
+! after above removed -> #.koekie_bar_inactive.koekie_bar
+tweakers.net##.submit-info! Jul 2, 2024 https://tweakers.net
+tweakers.net##.relatedContentContainer
+
+tweakers.net##.active > [href="https://tweakers.net/pricewatch/deals/"]
+#tweakers.net##li.more:nth-of-type(4)
+tweakers.net##[href="https://tweakers.net/pricewatch/deals/"]
+
+! Aug 17, 2024 https://gathering.tweakers.net
+#gathering.tweakers.net##li.more:nth-of-type(4)
+tweakers.net##.sidebar
+! New style ads
+||tweakers.net/i/$image
+
+
