@@ -102,4 +102,5 @@ tweakers.net##.sidebar
 ! New style ads
 ||tweakers.net/i/$image
 
+tweakers.net###didYouKnow
 
