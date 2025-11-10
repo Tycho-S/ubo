@@ -104,3 +104,4 @@ tweakers.net##.sidebar
 
 tweakers.net###didYouKnow
 
+tweakers.net##.twk-site-menu-wrapper > .border-box-container
