@@ -105,3 +105,5 @@ tweakers.net##.sidebar
 tweakers.net###didYouKnow
 
 tweakers.net##.twk-site-menu-wrapper > .border-box-container
+tweakers.net##.footer-top
+tweakers.net##.footer-grid.site-footer
