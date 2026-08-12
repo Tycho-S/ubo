@@ -120,3 +120,9 @@ www.reddit.com##[id="desktop-dynamic-upsell-dialog"]
 www.reddit.com##html:style(overflow: auto !important;)
 www.reddit.com##body:style(overflow: auto !important;)
 www.reddit.com###left-sidebar-container
+
+! Third one
+reddit.com#?##app-upsell-blocking-bottom-sheet-seo:remove()
+reddit.com#%#//scriptlet('prevent-addEventListener', 'touchmove', 'preventDefault')
+reddit.com#%#//scriptlet('remove-class', 'rpl-scroll-lock|scroll-is-blocked', 'html, body', 'asap stay')
+reddit.com#$#html, body, shreddit-app { overflow-y: scroll !important; -webkit-overflow-scrolling: touch !important; touch-action: pan-y !important; overscroll-behavior: auto !important; }
