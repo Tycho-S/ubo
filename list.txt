@@ -107,3 +107,16 @@ tweakers.net###didYouKnow
 tweakers.net##.twk-site-menu-wrapper > .border-box-container
 tweakers.net##.footer-top
 tweakers.net##.footer-grid.site-footer
+
+! Reddit BS
+www.reddit.com##.rpl-dialog
+www.reddit.com##+js(remove-class, rpl-scroll-lock, body, stay)
+
+! Reddit login/signup modal 
+www.reddit.com##div#desktop-dynamic-upsell-dialog
+www.reddit.com##[id="desktop-dynamic-upsell-dialog"]
+
+! Restore scrolling after hiding Reddit login modal
+www.reddit.com##html:style(overflow: auto !important;)
+www.reddit.com##body:style(overflow: auto !important;)
+www.reddit.com###left-sidebar-container
