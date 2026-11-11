@@ -132,3 +132,8 @@ www.theguardian.com##.dcr-athwlk
 www.theguardian.com##.dcr-1inzivq.maybe-later
 www.reddit.com##^configured-xpromo-modal
 
+www.reddit.com##.rpl-bottom-sheet
+www.reddit.com##+js(rc
+www.reddit.com##+js(prevent-addEventListener
+reddit.com##shreddit-ad-post
+reddit.com##shreddit-post:has-text(/Promoted|Keyword|Keyword etc etc|/i) 
