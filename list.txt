@@ -126,3 +126,9 @@ reddit.com#?##app-upsell-blocking-bottom-sheet-seo:remove()
 reddit.com#%#//scriptlet('prevent-addEventListener', 'touchmove', 'preventDefault')
 reddit.com#%#//scriptlet('remove-class', 'rpl-scroll-lock|scroll-is-blocked', 'html, body', 'asap stay')
 reddit.com#$#html, body, shreddit-app { overflow-y: scroll !important; -webkit-overflow-scrolling: touch !important; touch-action: pan-y !important; overscroll-behavior: auto !important; }
+
+! 10 Nov 2026 https://www.theguardian.com
+www.theguardian.com##.dcr-athwlk
+www.theguardian.com##.dcr-1inzivq.maybe-later
+www.reddit.com##^configured-xpromo-modal
+
